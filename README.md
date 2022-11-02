@@ -1,3 +1,2 @@
 # revert-reset-repo
-Git講座用 revertとreset  
-また間違えてしまった...
+Git講座用 revertとreset
